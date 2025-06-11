@@ -1,6 +1,6 @@
 # SQL Practice Projects 📊
 
-This repository contains a collection of small **SQL* projects I created to practice and improve my skills in database querying, design, and data analysis. Each project focuses on different SQL concepts and use cases.
+This repository contains a collection of small **SQL** projects I created to practice and improve my skills in database querying, design, and data analysis. Each project focuses on different SQL concepts and use cases.
 
 ---
 
